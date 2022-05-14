@@ -1,7 +1,7 @@
 import "./Work.scss";
 
 const Work = () => {
-  return <h1>Word</h1>;
+  return <h1>Work</h1>;
 };
 
 export default Work;
